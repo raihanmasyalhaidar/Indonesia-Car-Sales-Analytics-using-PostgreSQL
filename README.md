@@ -24,7 +24,7 @@
   - [Dataset Dictionary](#dataset-dictionary)
   - [Sample Synthetic Data](#sample-synthetic-data)
 - [Database Schema (ERD)](#database-schema-erd)
-- [Sample Analysis](#sample-analysis) — 3 sample queries + reference to all 14
+- [Sample Analysis](#sample-analysis)
   - [Sample 1: Overall sales performance](#sample-1--overall-sales-performance)
   - [Sample 2: Brand market share](#sample-2--brand-market-share)
   - [Sample 3: Brand market share over time](#sample-3--brand-market-share-over-time)
@@ -269,8 +269,6 @@ The repository contains **14 analytical SQL queries** in [`queries/`](./queries/
 
 ### Sample 1 — Overall sales performance
 
-_Foundational aggregation — establishes the headline KPIs that anchor the rest of the analysis._
-
 ```sql
 -- Query 1: Overall sales performance
 SELECT
@@ -297,8 +295,6 @@ Over the six-year period, AutoNusantara Group recorded sales of **11,013 vehicle
 ---
 
 ### Sample 2 — Brand market share
-
-_Window function technique — uses `SUM(SUM(...)) OVER ()` to compute the grand total alongside each group's subtotal in a single pass._
 
 ```sql
 -- Query 4: Brand market share (% of total units)
@@ -333,8 +329,6 @@ Toyota accounts for **30.0%** of total sales volume; the top three brands collec
 ---
 
 ### Sample 3 — Brand market share over time
-
-_Advanced multi-CTE pipeline — combines window functions (`SUM OVER PARTITION BY`, `ROW_NUMBER`, `LAG`) to track competitive position year over year._
 
 ```sql
 -- Query 13: Brand market share over time (top 5 each year)
@@ -598,10 +592,6 @@ COPY after_sales_service FROM 'data/csv/10_after_sales_service.csv' (HEADER, AUT
 -- Run any query
 .read queries/04_brand_market_share.sql
 ```
-
-## Author
-
-**Raihan Masyal Haidar** — Statistics graduate with 3+ years of experience in data analytics, machine learning, and business intelligence, transforming complex data into strategic insights.
 
 📰 Article on Medium: [Indonesia Car Sales Analytics using PostgreSQL](https://medium.com/@raihanmasyalhaidar/indonesia-car-sales-analytics-using-postgresql-fe752dd75b37)
 
