@@ -1,0 +1,20 @@
+province,units_sold,dealer_count,units_per_dealer,recommendation
+East Java,888.0,9,98.7,Expansion Candidate
+Papua,294.0,3,98.0,Expansion Candidate
+Lampung,488.0,5,97.6,Expansion Candidate
+North Sulawesi,388.0,4,97.0,Expansion Candidate
+South Sulawesi,663.0,7,94.7,Expansion Candidate
+West Nusa Tenggara,188.0,2,94.0,Expansion Candidate
+Bali,375.0,4,93.8,Expansion Candidate
+Yogyakarta,1392.0,15,92.8,Expansion Candidate
+Banten,927.0,10,92.7,Expansion Candidate
+Riau,182.0,2,91.0,Adequately Served
+DKI Jakarta,1080.0,12,90.0,Adequately Served
+West Sumatra,539.0,6,89.8,Adequately Served
+West Kalimantan,449.0,5,89.8,Adequately Served
+South Sumatra,267.0,3,89.0,Adequately Served
+Central Java,1327.0,15,88.5,Adequately Served
+North Sumatra,265.0,3,88.3,Adequately Served
+West Java,965.0,11,87.7,Adequately Served
+South Kalimantan,256.0,3,85.3,Adequately Served
+East Kalimantan,80.0,1,80.0,Adequately Served

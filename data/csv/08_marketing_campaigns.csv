@@ -1,0 +1,151 @@
+campaign_id,campaign_name,brand,campaign_channel,start_date,end_date,campaign_cost,target_region
+1,Honda Year-End 2025,Honda,Event,2025-02-01,2025-04-08,1500000000,Sumatra
+2,Wuling Festival 2022,Wuling,Social,2022-01-01,2022-02-22,1700000000,Java
+3,Daihatsu Launch 2021,Daihatsu,Print,2021-01-01,2021-02-06,1500000000,Java
+4,Suzuki Year-End 2023,Suzuki,Print,2023-06-01,2023-07-31,2400000000,Eastern Indonesia
+5,Daihatsu Festival 2025,Daihatsu,Event,2025-01-01,2025-02-19,3900000000,Sumatra
+6,Mitsubishi Lebaran 2023,Mitsubishi,Radio,2023-01-01,2023-02-17,2800000000,Java
+7,Toyota Launch 2023,Toyota,Social,2023-08-01,2023-09-25,3300000000,Java
+8,Daihatsu Launch 2025,Daihatsu,TV,2025-10-01,2025-11-10,2700000000,Java
+9,Daihatsu Promo 2022,Daihatsu,Digital,2022-10-01,2022-11-20,3700000000,Java
+10,Kia Promo 2024,Kia,Social,2024-05-01,2024-06-01,3400000000,Java
+11,Hyundai Tukar Tambah 2024,Hyundai,Social,2024-05-01,2024-06-28,1600000000,Java
+12,Daihatsu Lebaran 2021,Daihatsu,Event,2021-10-01,2021-12-08,2400000000,Java
+13,Honda Promo 2021,Honda,TV,2021-02-01,2021-04-11,1100000000,Java
+14,Daihatsu Year-End 2021,Daihatsu,Social,2021-10-01,2021-10-31,2000000000,Sumatra
+15,Daihatsu Tukar Tambah 2024,Daihatsu,Print,2024-11-01,2025-01-14,2500000000,Java
+16,Daihatsu Promo 2021,Daihatsu,Digital,2021-11-01,2022-01-02,3500000000,Kalimantan
+17,Daihatsu Launch 2022,Daihatsu,Radio,2022-06-01,2022-07-21,800000000,Java
+18,Toyota Promo 2024,Toyota,Print,2024-03-01,2024-04-19,3400000000,Kalimantan
+19,Daihatsu Lebaran 2025,Daihatsu,Event,2025-07-01,2025-09-04,1800000000,Java
+20,Daihatsu Tukar Tambah 2024,Daihatsu,Digital,2024-09-01,2024-10-09,1000000000,Java
+21,Honda Tukar Tambah 2022,Honda,Event,2022-01-01,2022-02-19,700000000,Eastern Indonesia
+22,Suzuki Festival 2024,Suzuki,Social,2024-06-01,2024-07-04,3700000000,Java
+23,Nissan Year-End 2025,Nissan,Digital,2025-01-01,2025-03-07,1100000000,Sulawesi
+24,Wuling Tukar Tambah 2021,Wuling,TV,2021-07-01,2021-09-04,900000000,Java
+25,Suzuki Tukar Tambah 2024,Suzuki,Event,2024-11-01,2024-12-06,1500000000,Kalimantan
+26,Toyota Year-End 2025,Toyota,Event,2025-08-01,2025-09-02,1900000000,Java
+27,Daihatsu Promo 2022,Daihatsu,Radio,2022-03-01,2022-04-20,2100000000,Java
+28,Toyota Lebaran 2021,Toyota,Event,2021-09-01,2021-10-29,2800000000,Eastern Indonesia
+29,Mazda Year-End 2022,Mazda,Print,2022-07-01,2022-08-24,2500000000,Java
+30,Hyundai Year-End 2022,Hyundai,Social,2022-02-01,2022-04-15,2500000000,Sumatra
+31,Mercedes-Benz Festival 2022,Mercedes-Benz,Digital,2022-04-01,2022-05-23,3000000000,Java
+32,Toyota Festival 2021,Toyota,Event,2021-04-01,2021-05-04,1900000000,Sulawesi
+33,Toyota Launch 2024,Toyota,Digital,2024-04-01,2024-05-24,2600000000,Java
+34,Hyundai Year-End 2024,Hyundai,Radio,2024-07-01,2024-09-02,3000000000,Java
+35,Toyota Launch 2022,Toyota,Social,2022-05-01,2022-06-13,3800000000,Kalimantan
+36,Suzuki Tukar Tambah 2021,Suzuki,TV,2021-10-01,2021-11-04,3200000000,Java
+37,Nissan Tukar Tambah 2022,Nissan,Digital,2022-01-01,2022-03-17,2300000000,Java
+38,Mitsubishi Launch 2021,Mitsubishi,Social,2021-03-01,2021-04-28,2700000000,Eastern Indonesia
+39,Hyundai Festival 2023,Hyundai,Event,2023-01-01,2023-02-15,2200000000,Java
+40,Daihatsu Launch 2023,Daihatsu,TV,2023-11-01,2024-01-14,2100000000,Java
+41,Toyota Year-End 2024,Toyota,TV,2024-08-01,2024-09-04,2300000000,Sumatra
+42,Wuling Promo 2025,Wuling,Digital,2025-05-01,2025-07-03,1700000000,Eastern Indonesia
+43,Toyota Launch 2024,Toyota,Event,2024-04-01,2024-06-11,2500000000,Sumatra
+44,Wuling EV Festival 2021,Wuling EV,Radio,2021-07-01,2021-08-07,2100000000,Sulawesi
+45,Mitsubishi Festival 2021,Mitsubishi,Digital,2021-09-01,2021-10-07,3700000000,Java
+46,Honda Tukar Tambah 2023,Honda,Event,2023-10-01,2023-11-16,600000000,Eastern Indonesia
+47,Chery Year-End 2021,Chery,Radio,2021-08-01,2021-09-25,1300000000,Sulawesi
+48,Kia Tukar Tambah 2023,Kia,Event,2023-10-01,2023-11-16,2000000000,Java
+49,Toyota Tukar Tambah 2021,Toyota,TV,2021-05-01,2021-07-03,2100000000,Java
+50,Toyota Tukar Tambah 2021,Toyota,Digital,2021-07-01,2021-08-17,2600000000,Java
+51,Honda Festival 2022,Honda,Social,2022-09-01,2022-10-09,1800000000,Eastern Indonesia
+52,Honda Year-End 2022,Honda,Digital,2022-02-01,2022-04-08,1400000000,Sumatra
+53,Honda Launch 2023,Honda,Digital,2023-01-01,2023-03-04,3000000000,Java
+54,Honda Launch 2023,Honda,TV,2023-05-01,2023-07-12,3000000000,Sumatra
+55,MINI Launch 2021,MINI,Print,2021-10-01,2021-12-09,1600000000,Java
+56,Toyota Year-End 2025,Toyota,Social,2025-03-01,2025-05-06,4000000000,Java
+57,Kia Year-End 2023,Kia,Social,2023-08-01,2023-09-11,3900000000,Java
+58,Daihatsu Promo 2024,Daihatsu,Social,2024-03-01,2024-05-08,3700000000,Sumatra
+59,Toyota Launch 2025,Toyota,Digital,2025-05-01,2025-06-16,1500000000,Java
+60,Daihatsu Launch 2021,Daihatsu,Print,2021-07-01,2021-08-26,2700000000,Java
+61,Daihatsu Year-End 2024,Daihatsu,Digital,2024-06-01,2024-07-01,2700000000,Java
+62,Mitsubishi Year-End 2022,Mitsubishi,Radio,2022-03-01,2022-04-08,1200000000,Java
+63,Suzuki Promo 2023,Suzuki,TV,2023-07-01,2023-08-15,1000000000,Java
+64,Nissan Festival 2025,Nissan,Radio,2025-10-01,2025-12-07,3400000000,Java
+65,Mitsubishi Lebaran 2025,Mitsubishi,Radio,2025-08-01,2025-09-24,3600000000,Java
+66,Lexus Year-End 2023,Lexus,Digital,2023-05-01,2023-06-16,1400000000,Java
+67,Honda Launch 2024,Honda,Radio,2024-05-01,2024-07-10,3900000000,Java
+68,Daihatsu Lebaran 2022,Daihatsu,Social,2022-01-01,2022-02-11,3900000000,Java
+69,Daihatsu Tukar Tambah 2024,Daihatsu,Event,2024-10-01,2024-11-18,900000000,Sumatra
+70,Mitsubishi Tukar Tambah 2025,Mitsubishi,Social,2025-06-01,2025-07-17,2400000000,Sulawesi
+71,Daihatsu Launch 2025,Daihatsu,Print,2025-08-01,2025-09-24,1000000000,Java
+72,Wuling Lebaran 2023,Wuling,Event,2023-02-01,2023-04-13,1100000000,Sulawesi
+73,BMW Tukar Tambah 2025,BMW,Digital,2025-09-01,2025-11-01,1700000000,Java
+74,Mitsubishi Launch 2023,Mitsubishi,Digital,2023-11-01,2023-12-05,1500000000,Java
+75,Suzuki Festival 2024,Suzuki,Digital,2024-10-01,2024-11-28,2600000000,Eastern Indonesia
+76,Toyota Festival 2022,Toyota,Event,2022-10-01,2022-11-05,2200000000,Sulawesi
+77,Honda Tukar Tambah 2025,Honda,Radio,2025-10-01,2025-11-25,2400000000,Java
+78,Suzuki Promo 2025,Suzuki,Social,2025-04-01,2025-05-15,1000000000,Kalimantan
+79,Toyota Year-End 2023,Toyota,Social,2023-09-01,2023-10-02,2700000000,Kalimantan
+80,Daihatsu Year-End 2025,Daihatsu,TV,2025-05-01,2025-06-28,1800000000,Java
+81,Toyota Promo 2023,Toyota,Social,2023-03-01,2023-05-02,3900000000,Eastern Indonesia
+82,Volvo Year-End 2024,Volvo,Event,2024-10-01,2024-12-10,1800000000,Java
+83,Toyota Launch 2023,Toyota,Social,2023-02-01,2023-04-02,4000000000,Eastern Indonesia
+84,Hyundai Promo 2021,Hyundai,Event,2021-08-01,2021-09-01,700000000,Java
+85,Mazda Lebaran 2025,Mazda,Radio,2025-02-01,2025-03-27,2100000000,Java
+86,Mazda Promo 2023,Mazda,Digital,2023-03-01,2023-04-16,1400000000,Java
+87,Mitsubishi Promo 2021,Mitsubishi,Event,2021-11-01,2021-12-10,2200000000,Java
+88,Daihatsu Launch 2021,Daihatsu,Radio,2021-07-01,2021-08-22,600000000,Sumatra
+89,Mitsubishi Lebaran 2021,Mitsubishi,Digital,2021-04-01,2021-05-02,2000000000,Java
+90,Honda Promo 2021,Honda,Radio,2021-02-01,2021-03-20,1300000000,Sulawesi
+91,Daihatsu Launch 2025,Daihatsu,Social,2025-02-01,2025-04-02,800000000,Java
+92,Mitsubishi Festival 2024,Mitsubishi,TV,2024-01-01,2024-03-01,2700000000,Sumatra
+93,Nissan Launch 2024,Nissan,Radio,2024-05-01,2024-06-13,2700000000,Java
+94,Mitsubishi Lebaran 2024,Mitsubishi,Digital,2024-08-01,2024-09-25,2200000000,Java
+95,Honda Launch 2025,Honda,TV,2025-11-01,2025-12-16,3500000000,Sumatra
+96,Suzuki Launch 2025,Suzuki,Radio,2025-03-01,2025-05-06,2800000000,Sumatra
+97,Mitsubishi Promo 2022,Mitsubishi,Event,2022-06-01,2022-08-07,2000000000,Sulawesi
+98,Mitsubishi Launch 2022,Mitsubishi,Event,2022-04-01,2022-05-07,700000000,Java
+99,Toyota Festival 2021,Toyota,Print,2021-11-01,2021-12-27,1500000000,Kalimantan
+100,Wuling Tukar Tambah 2024,Wuling,TV,2024-04-01,2024-05-12,1700000000,Sumatra
+101,Wuling Festival 2024,Wuling,Event,2024-04-01,2024-05-29,3200000000,Java
+102,Chery Festival 2025,Chery,Event,2025-08-01,2025-10-07,700000000,Sulawesi
+103,Mitsubishi Launch 2021,Mitsubishi,TV,2021-06-01,2021-07-26,1200000000,Java
+104,Daihatsu Launch 2023,Daihatsu,Social,2023-04-01,2023-05-10,3000000000,Java
+105,Hyundai Lebaran 2023,Hyundai,Event,2023-03-01,2023-04-07,1700000000,Java
+106,Daihatsu Launch 2022,Daihatsu,Social,2022-03-01,2022-04-22,800000000,Java
+107,Mitsubishi Tukar Tambah 2025,Mitsubishi,Social,2025-03-01,2025-04-14,1200000000,Java
+108,Suzuki Lebaran 2023,Suzuki,TV,2023-10-01,2023-11-18,700000000,Sulawesi
+109,Honda Tukar Tambah 2021,Honda,Print,2021-06-01,2021-07-13,2700000000,Kalimantan
+110,Nissan Lebaran 2025,Nissan,Print,2025-08-01,2025-09-21,2400000000,Java
+111,Toyota Festival 2021,Toyota,Radio,2021-06-01,2021-08-12,2600000000,Java
+112,Honda Lebaran 2024,Honda,Digital,2024-08-01,2024-09-02,1000000000,Sumatra
+113,Toyota Launch 2023,Toyota,Social,2023-01-01,2023-03-17,3200000000,Sumatra
+114,Mazda Festival 2024,Mazda,Social,2024-10-01,2024-11-30,1000000000,Java
+115,Daihatsu Lebaran 2025,Daihatsu,Digital,2025-11-01,2026-01-01,3800000000,Java
+116,Nissan Launch 2022,Nissan,TV,2022-10-01,2022-12-08,3400000000,Kalimantan
+117,Toyota Tukar Tambah 2024,Toyota,Radio,2024-01-01,2024-02-07,2700000000,Java
+118,Suzuki Year-End 2023,Suzuki,Print,2023-04-01,2023-06-06,3300000000,Eastern Indonesia
+119,Toyota Promo 2023,Toyota,Radio,2023-11-01,2023-12-23,2300000000,Sulawesi
+120,Honda Tukar Tambah 2025,Honda,Print,2025-07-01,2025-08-03,2500000000,Java
+121,Hyundai Tukar Tambah 2024,Hyundai,Social,2024-10-01,2024-11-19,1300000000,Java
+122,Honda Lebaran 2021,Honda,Print,2021-10-01,2021-12-05,3400000000,Eastern Indonesia
+123,Toyota Lebaran 2025,Toyota,TV,2025-04-01,2025-06-13,4000000000,Java
+124,Suzuki Lebaran 2022,Suzuki,Digital,2022-01-01,2022-02-23,2700000000,Sulawesi
+125,Mitsubishi Festival 2023,Mitsubishi,TV,2023-10-01,2023-11-07,1200000000,Sulawesi
+126,MINI Launch 2024,MINI,TV,2024-09-01,2024-10-05,800000000,Sulawesi
+127,Daihatsu Lebaran 2024,Daihatsu,Event,2024-03-01,2024-04-06,2500000000,Java
+128,Hyundai Tukar Tambah 2022,Hyundai,TV,2022-09-01,2022-10-30,2600000000,Java
+129,Hyundai Promo 2023,Hyundai,Print,2023-05-01,2023-06-06,500000000,Java
+130,Suzuki Promo 2025,Suzuki,Print,2025-07-01,2025-08-06,1000000000,Sumatra
+131,Honda Launch 2025,Honda,Print,2025-02-01,2025-03-17,2400000000,Java
+132,Toyota Launch 2023,Toyota,TV,2023-06-01,2023-08-06,2900000000,Java
+133,Suzuki Promo 2024,Suzuki,Social,2024-06-01,2024-07-13,1800000000,Java
+134,Toyota Year-End 2022,Toyota,TV,2022-04-01,2022-05-30,3000000000,Java
+135,Mitsubishi Launch 2022,Mitsubishi,Digital,2022-04-01,2022-05-12,2700000000,Java
+136,Mitsubishi Year-End 2025,Mitsubishi,Social,2025-07-01,2025-08-09,2100000000,Eastern Indonesia
+137,Daihatsu Launch 2022,Daihatsu,TV,2022-06-01,2022-07-10,1000000000,Sumatra
+138,Suzuki Promo 2024,Suzuki,Print,2024-04-01,2024-05-07,3400000000,Java
+139,Toyota Promo 2021,Toyota,Print,2021-03-01,2021-05-08,2500000000,Java
+140,Toyota Launch 2024,Toyota,Social,2024-08-01,2024-09-13,800000000,Java
+141,Suzuki Promo 2024,Suzuki,TV,2024-05-01,2024-06-03,1500000000,Sumatra
+142,Daihatsu Festival 2022,Daihatsu,Event,2022-06-01,2022-07-11,2200000000,Kalimantan
+143,Toyota Year-End 2025,Toyota,Print,2025-01-01,2025-03-01,1600000000,Java
+144,BYD Festival 2025,BYD,Radio,2025-08-01,2025-10-05,500000000,Kalimantan
+145,Toyota Lebaran 2025,Toyota,Radio,2025-11-01,2025-12-06,2100000000,Eastern Indonesia
+146,Daihatsu Tukar Tambah 2023,Daihatsu,Print,2023-10-01,2023-12-06,2600000000,Java
+147,Lexus Tukar Tambah 2024,Lexus,Radio,2024-11-01,2024-12-17,3600000000,Java
+148,Daihatsu Year-End 2022,Daihatsu,Event,2022-04-01,2022-05-18,3100000000,Java
+149,Mitsubishi Year-End 2025,Mitsubishi,TV,2025-03-01,2025-04-24,2100000000,Java
+150,Suzuki Tukar Tambah 2023,Suzuki,Event,2023-02-01,2023-04-02,3700000000,Java

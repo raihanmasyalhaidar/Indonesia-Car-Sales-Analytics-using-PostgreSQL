@@ -1,0 +1,42 @@
+region,province,city,units_sold,revenue
+Java,Yogyakarta,Yogyakarta,751.0,345627804000.0
+Java,Yogyakarta,Sleman,641.0,288671484000.0
+Java,Central Java,Magelang,549.0,246784191000.0
+Java,DKI Jakarta,Jakarta Timur,535.0,244232079000.0
+Java,Central Java,Solo,446.0,193996476000.0
+Java,West Java,Bogor,441.0,193982379000.0
+Java,East Java,Surabaya,413.0,186712878000.0
+Sulawesi,North Sulawesi,Bitung,388.0,185794686000.0
+Java,Banten,Cilegon,370.0,171228711000.0
+Sulawesi,South Sulawesi,Parepare,370.0,170149569000.0
+Sumatra,West Sumatra,Padang,346.0,151686051000.0
+Java,Central Java,Semarang,332.0,162201747000.0
+Eastern Indonesia,Papua,Jayapura,294.0,139405233000.0
+Sulawesi,South Sulawesi,Makassar,293.0,125084346000.0
+Java,Banten,Serang,293.0,131164482000.0
+Kalimantan,West Kalimantan,Pontianak,291.0,136596711000.0
+Eastern Indonesia,Bali,Badung,289.0,130087893000.0
+Java,East Java,Sidoarjo,283.0,130632237000.0
+Sumatra,Lampung,Bandar Lampung,273.0,129790968000.0
+Java,DKI Jakarta,Jakarta Barat,272.0,128285142000.0
+Java,Banten,Tangerang,264.0,123701841000.0
+Java,West Java,Depok,261.0,116001327000.0
+Sumatra,Lampung,Metro,215.0,96631050000.0
+Java,West Java,Cimahi,201.0,101488299000.0
+Sumatra,West Sumatra,Bukittinggi,193.0,90396069000.0
+Java,East Java,Malang,192.0,84268758000.0
+Eastern Indonesia,West Nusa Tenggara,Mataram,188.0,83748279000.0
+Kalimantan,South Kalimantan,Banjarbaru,177.0,83828088000.0
+Java,DKI Jakarta,Jakarta Utara,176.0,78099378000.0
+Sumatra,North Sumatra,Pematangsiantar,176.0,87356445000.0
+Sumatra,South Sumatra,Lubuklinggau,176.0,80946972000.0
+Kalimantan,West Kalimantan,Singkawang,158.0,71394867000.0
+Java,DKI Jakarta,Jakarta Selatan,97.0,47100630000.0
+Sumatra,Riau,Dumai,93.0,43913154000.0
+Sumatra,South Sumatra,Palembang,91.0,44296659000.0
+Sumatra,Riau,Pekanbaru,89.0,39387462000.0
+Sumatra,North Sumatra,Medan,89.0,37950012000.0
+Eastern Indonesia,Bali,Denpasar,86.0,34677288000.0
+Kalimantan,East Kalimantan,Samarinda,80.0,41184219000.0
+Kalimantan,South Kalimantan,Banjarmasin,79.0,34437972000.0
+Java,West Java,Bekasi,62.0,28997973000.0

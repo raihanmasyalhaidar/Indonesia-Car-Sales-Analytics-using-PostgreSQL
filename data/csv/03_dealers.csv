@@ -1,0 +1,121 @@
+dealer_id,dealer_name,city,province,region,dealer_type
+1,Nusantara Motor Yogyakarta 001,Yogyakarta,Yogyakarta,Java,Standard
+2,Nusantara Motor Semarang 002,Semarang,Central Java,Java,Standard
+3,Nusantara Motor Bitung 003,Bitung,North Sulawesi,Sulawesi,Authorized
+4,Nusantara Motor Makassar 004,Makassar,South Sulawesi,Sulawesi,Standard
+5,Nusantara Motor Surabaya 005,Surabaya,East Java,Java,Authorized
+6,Nusantara Motor Sleman 006,Sleman,Yogyakarta,Java,Standard
+7,Nusantara Motor Pontianak 007,Pontianak,West Kalimantan,Kalimantan,Flagship
+8,Nusantara Motor Badung 008,Badung,Bali,Eastern Indonesia,Flagship
+9,Nusantara Motor Sidoarjo 009,Sidoarjo,East Java,Java,Standard
+10,Nusantara Motor Badung 010,Badung,Bali,Eastern Indonesia,Authorized
+11,Nusantara Motor Jakarta Timur 011,Jakarta Timur,DKI Jakarta,Java,Flagship
+12,Nusantara Motor Parepare 012,Parepare,South Sulawesi,Sulawesi,Standard
+13,Nusantara Motor Mataram 013,Mataram,West Nusa Tenggara,Eastern Indonesia,Standard
+14,Nusantara Motor Sidoarjo 014,Sidoarjo,East Java,Java,Standard
+15,Nusantara Motor Sleman 015,Sleman,Yogyakarta,Java,Standard
+16,Nusantara Motor Sleman 016,Sleman,Yogyakarta,Java,Standard
+17,Nusantara Motor Bitung 017,Bitung,North Sulawesi,Sulawesi,Standard
+18,Nusantara Motor Malang 018,Malang,East Java,Java,Standard
+19,Nusantara Motor Sleman 019,Sleman,Yogyakarta,Java,Standard
+20,Nusantara Motor Cimahi 020,Cimahi,West Java,Java,Standard
+21,Nusantara Motor Makassar 021,Makassar,South Sulawesi,Sulawesi,Standard
+22,Nusantara Motor Metro 022,Metro,Lampung,Sumatra,Flagship
+23,Nusantara Motor Badung 023,Badung,Bali,Eastern Indonesia,Standard
+24,Nusantara Motor Jakarta Selatan 024,Jakarta Selatan,DKI Jakarta,Java,Standard
+25,Nusantara Motor Jakarta Timur 025,Jakarta Timur,DKI Jakarta,Java,Standard
+26,Nusantara Motor Dumai 026,Dumai,Riau,Sumatra,Standard
+27,Nusantara Motor Yogyakarta 027,Yogyakarta,Yogyakarta,Java,Authorized
+28,Nusantara Motor Parepare 028,Parepare,South Sulawesi,Sulawesi,Standard
+29,Nusantara Motor Banjarbaru 029,Banjarbaru,South Kalimantan,Kalimantan,Flagship
+30,Nusantara Motor Jakarta Timur 030,Jakarta Timur,DKI Jakarta,Java,Flagship
+31,Nusantara Motor Cilegon 031,Cilegon,Banten,Java,Standard
+32,Nusantara Motor Mataram 032,Mataram,West Nusa Tenggara,Eastern Indonesia,Authorized
+33,Nusantara Motor Depok 033,Depok,West Java,Java,Standard
+34,Nusantara Motor Lubuklinggau 034,Lubuklinggau,South Sumatra,Sumatra,Standard
+35,Nusantara Motor Jakarta Barat 035,Jakarta Barat,DKI Jakarta,Java,Standard
+36,Nusantara Motor Tangerang 036,Tangerang,Banten,Java,Flagship
+37,Nusantara Motor Yogyakarta 037,Yogyakarta,Yogyakarta,Java,Authorized
+38,Nusantara Motor Solo 038,Solo,Central Java,Java,Standard
+39,Nusantara Motor Depok 039,Depok,West Java,Java,Standard
+40,Nusantara Motor Banjarmasin 040,Banjarmasin,South Kalimantan,Kalimantan,Authorized
+41,Nusantara Motor Singkawang 041,Singkawang,West Kalimantan,Kalimantan,Flagship
+42,Nusantara Motor Solo 042,Solo,Central Java,Java,Standard
+43,Nusantara Motor Bandar Lampung 043,Bandar Lampung,Lampung,Sumatra,Standard
+44,Nusantara Motor Semarang 044,Semarang,Central Java,Java,Standard
+45,Nusantara Motor Padang 045,Padang,West Sumatra,Sumatra,Authorized
+46,Nusantara Motor Parepare 046,Parepare,South Sulawesi,Sulawesi,Standard
+47,Nusantara Motor Pematangsiantar 047,Pematangsiantar,North Sumatra,Sumatra,Standard
+48,Nusantara Motor Makassar 048,Makassar,South Sulawesi,Sulawesi,Standard
+49,Nusantara Motor Solo 049,Solo,Central Java,Java,Standard
+50,Nusantara Motor Bitung 050,Bitung,North Sulawesi,Sulawesi,Standard
+51,Nusantara Motor Jakarta Utara 051,Jakarta Utara,DKI Jakarta,Java,Flagship
+52,Nusantara Motor Denpasar 052,Denpasar,Bali,Eastern Indonesia,Authorized
+53,Nusantara Motor Medan 053,Medan,North Sumatra,Sumatra,Standard
+54,Nusantara Motor Bekasi 054,Bekasi,West Java,Java,Flagship
+55,Nusantara Motor Bandar Lampung 055,Bandar Lampung,Lampung,Sumatra,Standard
+56,Nusantara Motor Malang 056,Malang,East Java,Java,Standard
+57,Nusantara Motor Jayapura 057,Jayapura,Papua,Eastern Indonesia,Authorized
+58,Nusantara Motor Surabaya 058,Surabaya,East Java,Java,Standard
+59,Nusantara Motor Bitung 059,Bitung,North Sulawesi,Sulawesi,Authorized
+60,Nusantara Motor Cilegon 060,Cilegon,Banten,Java,Authorized
+61,Nusantara Motor Sleman 061,Sleman,Yogyakarta,Java,Authorized
+62,Nusantara Motor Pematangsiantar 062,Pematangsiantar,North Sumatra,Sumatra,Authorized
+63,Nusantara Motor Magelang 063,Magelang,Central Java,Java,Standard
+64,Nusantara Motor Surabaya 064,Surabaya,East Java,Java,Authorized
+65,Nusantara Motor Samarinda 065,Samarinda,East Kalimantan,Kalimantan,Authorized
+66,Nusantara Motor Padang 066,Padang,West Sumatra,Sumatra,Standard
+67,Nusantara Motor Lubuklinggau 067,Lubuklinggau,South Sumatra,Sumatra,Standard
+68,Nusantara Motor Banjarbaru 068,Banjarbaru,South Kalimantan,Kalimantan,Standard
+69,Nusantara Motor Jakarta Barat 069,Jakarta Barat,DKI Jakarta,Java,Authorized
+70,Nusantara Motor Magelang 070,Magelang,Central Java,Java,Standard
+71,Nusantara Motor Jakarta Timur 071,Jakarta Timur,DKI Jakarta,Java,Authorized
+72,Nusantara Motor Bogor 072,Bogor,West Java,Java,Authorized
+73,Nusantara Motor Cilegon 073,Cilegon,Banten,Java,Authorized
+74,Nusantara Motor Tangerang 074,Tangerang,Banten,Java,Flagship
+75,Nusantara Motor Padang 075,Padang,West Sumatra,Sumatra,Standard
+76,Nusantara Motor Bukittinggi 076,Bukittinggi,West Sumatra,Sumatra,Authorized
+77,Nusantara Motor Depok 077,Depok,West Java,Java,Standard
+78,Nusantara Motor Serang 078,Serang,Banten,Java,Standard
+79,Nusantara Motor Magelang 079,Magelang,Central Java,Java,Standard
+80,Nusantara Motor Solo 080,Solo,Central Java,Java,Standard
+81,Nusantara Motor Yogyakarta 081,Yogyakarta,Yogyakarta,Java,Standard
+82,Nusantara Motor Pekanbaru 082,Pekanbaru,Riau,Sumatra,Standard
+83,Nusantara Motor Sleman 083,Sleman,Yogyakarta,Java,Authorized
+84,Nusantara Motor Pontianak 084,Pontianak,West Kalimantan,Kalimantan,Standard
+85,Nusantara Motor Yogyakarta 085,Yogyakarta,Yogyakarta,Java,Standard
+86,Nusantara Motor Jayapura 086,Jayapura,Papua,Eastern Indonesia,Standard
+87,Nusantara Motor Semarang 087,Semarang,Central Java,Java,Authorized
+88,Nusantara Motor Solo 088,Solo,Central Java,Java,Standard
+89,Nusantara Motor Jakarta Barat 089,Jakarta Barat,DKI Jakarta,Java,Authorized
+90,Nusantara Motor Jakarta Timur 090,Jakarta Timur,DKI Jakarta,Java,Standard
+91,Nusantara Motor Yogyakarta 091,Yogyakarta,Yogyakarta,Java,Flagship
+92,Nusantara Motor Pontianak 092,Pontianak,West Kalimantan,Kalimantan,Authorized
+93,Nusantara Motor Magelang 093,Magelang,Central Java,Java,Standard
+94,Nusantara Motor Metro 094,Metro,Lampung,Sumatra,Standard
+95,Nusantara Motor Serang 095,Serang,Banten,Java,Standard
+96,Nusantara Motor Bandar Lampung 096,Bandar Lampung,Lampung,Sumatra,Authorized
+97,Nusantara Motor Bogor 097,Bogor,West Java,Java,Standard
+98,Nusantara Motor Cimahi 098,Cimahi,West Java,Java,Flagship
+99,Nusantara Motor Magelang 099,Magelang,Central Java,Java,Standard
+100,Nusantara Motor Bogor 100,Bogor,West Java,Java,Authorized
+101,Nusantara Motor Padang 101,Padang,West Sumatra,Sumatra,Standard
+102,Nusantara Motor Parepare 102,Parepare,South Sulawesi,Sulawesi,Flagship
+103,Nusantara Motor Bogor 103,Bogor,West Java,Java,Authorized
+104,Nusantara Motor Bogor 104,Bogor,West Java,Java,Standard
+105,Nusantara Motor Singkawang 105,Singkawang,West Kalimantan,Kalimantan,Flagship
+106,Nusantara Motor Bukittinggi 106,Bukittinggi,West Sumatra,Sumatra,Standard
+107,Nusantara Motor Jakarta Utara 107,Jakarta Utara,DKI Jakarta,Java,Flagship
+108,Nusantara Motor Sidoarjo 108,Sidoarjo,East Java,Java,Flagship
+109,Nusantara Motor Yogyakarta 109,Yogyakarta,Yogyakarta,Java,Authorized
+110,Nusantara Motor Palembang 110,Palembang,South Sumatra,Sumatra,Authorized
+111,Nusantara Motor Cilegon 111,Cilegon,Banten,Java,Standard
+112,Nusantara Motor Serang 112,Serang,Banten,Java,Standard
+113,Nusantara Motor Jakarta Timur 113,Jakarta Timur,DKI Jakarta,Java,Standard
+114,Nusantara Motor Yogyakarta 114,Yogyakarta,Yogyakarta,Java,Authorized
+115,Nusantara Motor Sleman 115,Sleman,Yogyakarta,Java,Standard
+116,Nusantara Motor Jayapura 116,Jayapura,Papua,Eastern Indonesia,Standard
+117,Nusantara Motor Surabaya 117,Surabaya,East Java,Java,Authorized
+118,Nusantara Motor Tangerang 118,Tangerang,Banten,Java,Standard
+119,Nusantara Motor Semarang 119,Semarang,Central Java,Java,Standard
+120,Nusantara Motor Magelang 120,Magelang,Central Java,Java,Standard

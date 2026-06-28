@@ -1,0 +1,19 @@
+brand_id,brand_name,country_origin,brand_segment
+1,Toyota,Japan,Mass-Market
+2,Daihatsu,Japan,Mass-Market
+3,Honda,Japan,Mass-Market
+4,Mitsubishi,Japan,Mass-Market
+5,Suzuki,Japan,Mass-Market
+6,Hyundai,Korea,Mass-Market
+7,Wuling,China,Mass-Market
+8,Nissan,Japan,Mass-Market
+9,Kia,Korea,Mass-Market
+10,Mazda,Japan,Mass-Market
+11,Chery,China,Mass-Market
+12,BYD,China,EV-Focused
+13,Wuling EV,China,EV-Focused
+14,BMW,Germany,Premium
+15,Mercedes-Benz,Germany,Luxury
+16,Lexus,Japan,Luxury
+17,MINI,Germany,Premium
+18,Volvo,Sweden,Premium

@@ -1,0 +1,88 @@
+vehicle_id,brand,model,variant,vehicle_type,fuel_type,transmission,engine_capacity,production_year,price_category
+101,Toyota,Avanza,2.0 V CVT,MPV,Gasoline,Manual,1499,2023,Entry
+102,Toyota,Innova Zenix,Superior,MPV,Gasoline,CVT,1329,2022,Mid
+103,Toyota,Rush,1.5 G CVT,SUV,Gasoline,Manual,1197,2023,Entry
+104,Toyota,Rush,Standard,SUV,Gasoline,Manual,2755,2022,Entry
+105,Toyota,Fortuner,Prime,SUV,Diesel,CVT,2755,2023,Premium
+106,Toyota,Yaris Cross,1.2 E MT,SUV,Hybrid,CVT,1499,2023,Mid
+107,Toyota,Yaris Cross,Ultimate,SUV,Hybrid,CVT,1998,2024,Mid
+108,Toyota,Calya,1.5 G CVT,MPV,Gasoline,Manual,1987,2022,Entry
+109,Toyota,Camry,Ultimate,Sedan,Hybrid,Manual,1987,2024,Premium
+110,Toyota,Camry,Superior,Sedan,Hybrid,Manual,2393,2022,Premium
+111,Daihatsu,Xenia,RS Pro,MPV,Gasoline,Manual,2755,2024,Entry
+112,Daihatsu,Xenia,1.5 G CVT,MPV,Gasoline,CVT,1496,2022,Entry
+113,Daihatsu,Sigra,2.0 V CVT,MPV,Gasoline,Automatic,1329,2022,Entry
+114,Daihatsu,Terios,Ultimate,SUV,Gasoline,Automatic,2393,2023,Entry
+115,Daihatsu,Terios,2.0 V CVT,SUV,Gasoline,Automatic,1987,2024,Entry
+116,Daihatsu,Rocky,Superior,SUV,Gasoline,CVT,1462,2023,Mid
+117,Daihatsu,Gran Max,RS Pro,Pickup,Gasoline,Automatic,1998,2023,Entry
+118,Honda,Brio,1.2 E MT,Hatchback,Gasoline,Manual,1496,2024,Entry
+119,Honda,Brio,1.5 G CVT,Hatchback,Gasoline,Automatic,1499,2023,Entry
+120,Honda,HR-V,Prime,SUV,Gasoline,Manual,2393,2025,Mid
+121,Honda,HR-V,1.5 GX AT,SUV,Gasoline,Manual,1499,2023,Mid
+122,Honda,CR-V,Standard,SUV,Hybrid,CVT,1998,2025,Premium
+123,Honda,CR-V,1.5 GX AT,SUV,Hybrid,Automatic,1496,2025,Premium
+124,Honda,BR-V,1.5 GX AT,MPV,Gasoline,Manual,1329,2023,Mid
+125,Honda,Civic,Prime,Sedan,Gasoline,CVT,1329,2025,Premium
+126,Honda,Civic,Superior,Sedan,Gasoline,CVT,2393,2024,Premium
+127,Honda,Mobilio,Superior,MPV,Gasoline,CVT,1329,2024,Entry
+128,Mitsubishi,Xpander,Prime,MPV,Gasoline,Manual,1499,2023,Mid
+129,Mitsubishi,Xpander,RS Pro,MPV,Gasoline,Automatic,1197,2023,Mid
+130,Mitsubishi,Pajero Sport,Superior,SUV,Diesel,CVT,1499,2023,Premium
+131,Mitsubishi,Xforce,Superior,SUV,Gasoline,Automatic,1462,2022,Mid
+132,Mitsubishi,Triton,1.5 G CVT,Pickup,Diesel,Automatic,1197,2024,Mid
+133,Mitsubishi,Triton,1.2 E MT,Pickup,Diesel,Automatic,1496,2023,Mid
+134,Suzuki,Ertiga,1.5 G CVT,MPV,Gasoline,Manual,2393,2023,Entry
+135,Suzuki,XL7,Superior,SUV,Gasoline,CVT,2393,2023,Mid
+136,Suzuki,Jimny,2.0 V CVT,SUV,Gasoline,CVT,1998,2023,Mid
+137,Suzuki,Jimny,Prime,SUV,Gasoline,CVT,1499,2024,Mid
+138,Suzuki,Baleno,1.5 G CVT,Hatchback,Gasoline,CVT,2393,2023,Entry
+139,Suzuki,Baleno,Ultimate,Hatchback,Gasoline,Manual,1329,2022,Entry
+140,Suzuki,Carry,1.2 E MT,Pickup,Gasoline,CVT,1496,2022,Entry
+141,Hyundai,Creta,1.2 E MT,SUV,Gasoline,Manual,1329,2024,Mid
+142,Hyundai,Stargazer,RS Pro,MPV,Gasoline,CVT,1496,2025,Entry
+143,Hyundai,Santa Fe,Standard,SUV,Diesel,CVT,1462,2025,Premium
+144,Hyundai,Ioniq 5,Signature,SUV,Electric,Automatic,0,2025,Premium
+145,Wuling,Almaz,Prime,SUV,Gasoline,Manual,1329,2024,Mid
+146,Wuling,Confero,1.2 E MT,MPV,Gasoline,Automatic,2393,2022,Entry
+147,Wuling,Confero,Ultimate,MPV,Gasoline,Manual,1998,2022,Entry
+148,Wuling,Cortez,Superior,MPV,Gasoline,Manual,1496,2025,Mid
+149,Nissan,Livina,RS Pro,MPV,Gasoline,Automatic,1462,2025,Mid
+150,Nissan,Magnite,Superior,SUV,Gasoline,Manual,2393,2022,Entry
+151,Nissan,Serena,1.2 E MT,MPV,Hybrid,CVT,2755,2022,Premium
+152,Kia,Sonet,Signature,SUV,Gasoline,Manual,1998,2025,Entry
+153,Kia,Seltos,1.5 GX AT,SUV,Gasoline,Automatic,1197,2025,Mid
+154,Kia,Carnival,Signature,MPV,Diesel,Automatic,1499,2024,Premium
+155,Mazda,CX-5,Signature,SUV,Gasoline,CVT,2755,2023,Premium
+156,Mazda,CX-5,2.0 V CVT,SUV,Gasoline,Manual,1499,2022,Premium
+157,Mazda,Mazda2,1.2 E MT,Hatchback,Gasoline,CVT,1987,2022,Mid
+158,Mazda,CX-3,1.5 GX AT,SUV,Gasoline,CVT,2755,2022,Mid
+159,Mazda,CX-3,1.5 GX AT,SUV,Gasoline,CVT,1329,2022,Mid
+160,Chery,Omoda 5,Prime,SUV,Gasoline,CVT,1496,2022,Mid
+161,Chery,Tiggo 7,Standard,SUV,Gasoline,CVT,1197,2022,Mid
+162,BYD,Atto 3,Standard,SUV,Electric,Automatic,0,2024,Premium
+163,BYD,Atto 3,RS Pro,SUV,Electric,Automatic,0,2023,Premium
+164,BYD,Dolphin,2.0 V CVT,Hatchback,Electric,Automatic,0,2024,Mid
+165,BYD,Dolphin,Prime,Hatchback,Electric,Automatic,0,2023,Mid
+166,BYD,Seal,Signature,Sedan,Electric,Automatic,0,2024,Premium
+167,BYD,Seal,1.5 G CVT,Sedan,Electric,Automatic,0,2022,Premium
+168,Wuling EV,Air ev,Standard,Hatchback,Electric,Automatic,0,2022,Entry
+169,Wuling EV,Air ev,1.5 G CVT,Hatchback,Electric,Automatic,0,2023,Entry
+170,Wuling EV,BinguoEV,1.5 GX AT,Hatchback,Electric,Automatic,0,2024,Mid
+171,Wuling EV,BinguoEV,1.5 G CVT,Hatchback,Electric,Automatic,0,2023,Mid
+172,BMW,X3,Signature,SUV,Gasoline,Automatic,1462,2024,Premium
+173,BMW,X3,1.2 E MT,SUV,Gasoline,CVT,2755,2024,Premium
+174,BMW,X5,1.5 G CVT,SUV,Gasoline,Manual,1499,2022,Luxury
+175,BMW,Series 3,Standard,Sedan,Gasoline,Automatic,1499,2023,Premium
+176,Mercedes-Benz,GLC,Superior,SUV,Gasoline,Manual,1499,2025,Luxury
+177,Mercedes-Benz,GLC,1.5 G CVT,SUV,Gasoline,Automatic,1197,2025,Luxury
+178,Mercedes-Benz,C-Class,Ultimate,Sedan,Gasoline,Manual,1197,2023,Premium
+179,Mercedes-Benz,C-Class,1.5 GX AT,Sedan,Gasoline,CVT,1499,2025,Premium
+180,Mercedes-Benz,E-Class,1.5 G CVT,Sedan,Gasoline,CVT,1197,2022,Luxury
+181,Mercedes-Benz,E-Class,Superior,Sedan,Gasoline,CVT,1462,2022,Luxury
+182,Lexus,RX,1.5 GX AT,SUV,Hybrid,CVT,2755,2025,Luxury
+183,Lexus,RX,RS Pro,SUV,Hybrid,Manual,1197,2024,Luxury
+184,Lexus,ES,2.0 V CVT,Sedan,Hybrid,Automatic,1496,2022,Luxury
+185,MINI,Cooper,Standard,Hatchback,Gasoline,CVT,1998,2023,Premium
+186,MINI,Cooper,1.5 GX AT,Hatchback,Gasoline,Manual,1462,2025,Premium
+187,Volvo,XC60,Prime,SUV,Hybrid,Manual,1987,2023,Premium
